@@ -1,0 +1,12 @@
+.git
+infra
+cdk.out
+node_modules
+*.ts
+*.tsx
+*.js
+*.jsx
+*.md
+*.log
+*.zip
+.vscode
